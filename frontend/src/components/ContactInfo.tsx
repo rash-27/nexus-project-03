@@ -13,7 +13,7 @@ function ContactInfo() {
                 <div className="pt-4 text-bold text-xl text-slate-600">Experience the benefits of our fully  digital operation; we operate without a brick-and-mortar office.</div>
             </div>
             <div data-aos="fade-left" className="flex flex-col justify-center">
-                <img src="/contactimg.jpg" alt="about image" className="rounded-lg h-full " />
+                <img src="/contactimg.jpg" alt="contact image" className="rounded-lg h-full " />
             </div>
         </div>
       </>

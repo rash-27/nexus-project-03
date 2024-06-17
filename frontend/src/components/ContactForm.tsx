@@ -24,7 +24,7 @@ function ContactForm() {
         }).then(()=>{
             setReceivedMessage("Your Response is sent !");
             setName('');setEmail('');setSubject('');setMessage('')
-        }).catch((e)=>{
+        }).catch(()=>{
             setReceivedMessage("Error While sending your response !");
         })
     }   
