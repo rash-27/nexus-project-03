@@ -5,7 +5,6 @@ interface CardHomeProps{
 }
 
 function CardHome({image , title , description}:CardHomeProps) {
-
     return (
       <>
         <div data-aos="fade-up" className="flex flex-col items-center justify-center px-3">

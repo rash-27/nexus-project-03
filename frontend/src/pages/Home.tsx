@@ -1,6 +1,7 @@
 import ShortInfo from "../components/ShortInfo"
 import ChooseHome from "../components/ChooseHome"
 import HomeHero from "../components/HomeHero"
+import Testimonal from "../components/Testimonal"
 
 function Home() {
 
@@ -13,6 +14,7 @@ function Home() {
         button="About"
         image="/abouthome.jpg"
          />
+         <Testimonal />
         <ChooseHome />
       </>
     )

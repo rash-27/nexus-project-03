@@ -1,5 +1,6 @@
 import AboutHeroSection from "../components/AboutHeroSection"
 import ShortInfo from "../components/ShortInfo"
+import Testimonal from "../components/Testimonal"
 
 function About() {
 
@@ -15,7 +16,7 @@ function About() {
             description="Nexus Info, founded by a young entrepreneur, boasts a dynamic team of enthusiastic individuals, adept at navigating the currents of the latest trends. With a commitment to excellence, we employ optimized techniques to enhance your business through flawlessly crafted websites and innovative ideations. Our mission is to deliver customized websites tailored to your business needs, ensuring a strong online presence within your industry"
             image="/about.jpg"
             />
-
+            <Testimonal />
         </div>
       </>
     )
