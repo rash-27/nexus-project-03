@@ -1,9 +1,13 @@
+import ContactHeroSection from "../components/ContactHeroSection"
 
 function Contact() {
 
     return (
       <>
-        <div>Contact</div>
+        <ContactHeroSection 
+        title="Contact Us"
+        description="Connect with Nexus and lets shape our success Together"
+        />
       </>
     )
   }

@@ -3,7 +3,7 @@ function HomeHero() {
 
     return (
       <>
-        <div className="bg-[url('/homehero.png')] flex justify-center text-center bg-no-repeat bg-center bg-cover px-10 pb-12 sm:px-24">
+        <div className="bg-[url('/homehero.jpg')] flex justify-center text-center bg-no-repeat bg-center bg-cover px-10 pb-12 sm:px-24">
             <div className="flex flex-col justify-center">
             <div data-aos="fade-right" className="text-white font-normal text-sm sm:text-xl sm:font-bold pt-10 sm:pt-20 sm:tracking-wider">
                 IT Solutions and Website Development
