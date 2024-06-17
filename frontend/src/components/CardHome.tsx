@@ -14,7 +14,7 @@ function CardHome({image , title , description}:CardHomeProps) {
             <div className="font-heading py-3 text-center text-lg">
                 {title}
             </div>
-            <div className="text-center pt-4 pb-6">
+            <div className="text-center text-slate-700 pt-4 pb-6">
                 {description}
             </div>
         </div>

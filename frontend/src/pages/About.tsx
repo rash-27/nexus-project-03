@@ -1,4 +1,5 @@
 import AboutHeroSection from "../components/AboutHeroSection"
+import Culture from "../components/Culture"
 import ShortInfo from "../components/ShortInfo"
 import Testimonal from "../components/Testimonal"
 
@@ -17,6 +18,7 @@ function About() {
             image="/about.jpg"
             />
             <Testimonal />
+            <Culture />
         </div>
       </>
     )
